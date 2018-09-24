@@ -1,11 +1,16 @@
 _repo: Lahtevien-laivojen-kaupunki_56559
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kallas, Aino Krohn
     gutenberg_agent_id: '48577'
     url: http://www.gutenberg.org/2009/agents/48577
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56559#Lahtevien-laivojen-kaupunki
 gutenberg_issued: '2018-02-15'
 gutenberg_type: Text
 identifiers:
